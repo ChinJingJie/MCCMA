@@ -15,11 +15,13 @@ A console application built in C# following Object-Oriented Programming (OOP) pr
 Clone the repository:
 ```bash
    git clone https://github.com/yourusername/card-management-system.git
+```
 
 ## Usage
 Run the application from the console, and follow the prompts to manage cards and transactions.
 ```bash
    dotnet run
+```
 
 ## UML Diagram
 ![passtask13_uml](https://github.com/user-attachments/assets/03eaee5a-5686-4a15-b802-c03590842989)
