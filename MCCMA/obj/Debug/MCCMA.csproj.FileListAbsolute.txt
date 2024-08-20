@@ -1,0 +1,10 @@
+/Users/chinjingjie/Desktop/MCCMA/MCCMA/obj/Debug/MCCMA.csprojAssemblyReference.cache
+/Users/chinjingjie/Desktop/MCCMA/MCCMA/obj/Debug/MCCMA.csproj.CoreCompileInputs.cache
+/Users/chinjingjie/Desktop/MCCMA/MCCMA/bin/Debug/MCCMA.exe
+/Users/chinjingjie/Desktop/MCCMA/MCCMA/bin/Debug/MCCMA.pdb
+/Users/chinjingjie/Desktop/MCCMA/MCCMA/obj/Debug/MCCMA.exe
+/Users/chinjingjie/Desktop/MCCMA/MCCMA/obj/Debug/MCCMA.pdb
+/Users/chinjingjie/Desktop/MCCMA/MCCMA/bin/Debug/nunit.framework.dll
+/Users/chinjingjie/Desktop/MCCMA/MCCMA/bin/Debug/nunit.framework.xml
+/Users/chinjingjie/Desktop/MCCMA/MCCMA/obj/Debug/MCCMA.csproj.CopyComplete
+/Users/chinjingjie/Desktop/MCCMA/MCCMA/bin/Debug/nunit.framework.pdb
